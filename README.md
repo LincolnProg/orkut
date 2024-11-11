@@ -2,6 +2,7 @@
 
 <div align=center>
     <img src="./img/Macbook-Air-guime777.github.io.png" width=400>
+    <img src="./img/iPhone-13-PRO-guime777.github.io.png" width=200>
     
 <div>
 
